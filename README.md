@@ -2,7 +2,7 @@
 I created tic tac toe in Kotlin.  The game is played in the terminal.
 I wrote this program to learn Kotlin.  I will use this in the future when learning android studio.  
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/fQK9MTEtR6c)
 
 # Development Environment
 I used the IntelliJ IDE with Kotlin to develop this software.  
